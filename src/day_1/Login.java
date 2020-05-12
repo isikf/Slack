@@ -5,5 +5,7 @@ public class Login {
         //slack users can login successfully
         
         //Brand new changes to be applied in IntelliJ"
+        
+        "This time git fetch & git merge"
     }
 }
