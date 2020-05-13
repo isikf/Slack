@@ -10,11 +10,8 @@ if(s.contains("a")){
 }else{
     System.out.println("not");
 }
-
         System.out.println("Say my name");
 
 //new line
-
-
     }
 }
