@@ -5,6 +5,8 @@ public class CreateChannel {
 
         System.out.println("User is able to create channels");
 
+        System.out.println("Say my name");
+
 
     }
 }
